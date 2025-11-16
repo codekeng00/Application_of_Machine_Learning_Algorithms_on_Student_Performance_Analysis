@@ -1,5 +1,6 @@
 # **Application of Machine Learning Algorithms on Student**
 This is a summary of the project, please find the detail report of the project [here](https://github.com/codekeng00/Application_of_Machine_Learning_Algorithms_on_Student_Performance_Analysis/blob/main/Application%20of%20Machine%20Learning%20Algorithms%20on%20Student%20Performance%20Analysis.pdf).
+This repository provides the code for analysis as well, please find it [here](https://github.com/codekeng00/Application_of_Machine_Learning_Algorithms_on_Student_Performance_Analysis/blob/main/project_code.ipynb). 
 ## **Objective of Study**
 This research project aims to:
 1. Provide a greater understanding of the factors influencing Mathematics and Portuguese performance among secondary school students in Portugal. 
@@ -54,7 +55,7 @@ Attribution of data is shown in the table below
 |33|G3|final grade (numeric: from 0 to 20, output target)|
 ## **Project Results**
 ### **Accuracy of model prediction**
-Summary of the Accuracy of all candidate models for Mathematics course
+- Summary of the Accuracy of all candidate models for Mathematics course
 
 | Approaches          | Accuracy of Predicted value |
 | ------------------- | --------------------------- |
@@ -63,7 +64,8 @@ Summary of the Accuracy of all candidate models for Mathematics course
 | Decision Tree       | 70.43%                      |
 | Tree Pruning        | 72.17%                      |
 | Bagging             | 73.96%                      |
-Summary of the Accuracy of all candidate models for Portuguese course
+
+- Summary of the Accuracy of all candidate models for Portuguese course
 
 | Approaches          | Accuracy of Predicted value |
 | ------------------- | --------------------------- |
